@@ -1,2 +1,2 @@
-# facebook-login-page-with-html
-https://dilshatun03.github.io/facebook-login-page-with-html-form/
+# Facebook account create page with html form
+ https://dilshatun03.github.io/Facebook-account-create-page-with-html-form/
